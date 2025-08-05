@@ -21,7 +21,7 @@ body {
 }
 
 .template-header {
-  background: var(--generic-template-background);
+  background: #747742;
   height: 15vh;
   display: flex;
   align-items: end;
